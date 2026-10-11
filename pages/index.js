@@ -12,7 +12,7 @@ import CtaBanner from '../components/agency/CtaBanner';
 
 const AGENCY_MENU = [
   { label: 'Home', href: '/' },
-  { label: 'Services', hasDropdown: true },
+  { label: 'Services', href: '/services' },
   { label: 'Expertise', hasDropdown: true },
   { label: 'Cases', href: '/cases' },
   { label: 'Pricing', href: '/pricing' },

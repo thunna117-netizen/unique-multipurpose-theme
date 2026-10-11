@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "top-ui-ux-trends-2026",
+    "title": "Top UI/UX Trends Defining Web Design in 2026",
+    "category": "Design",
+    "date": "Sep 24, 2026",
+    "image": "/images/agency/blog-1.png",
+    "excerpt": "Discover the latest visual styles, micro-interactions, and design workflows shaping modern web experiences.",
+    "content": "Full article details go here. Here we discuss how modern typography, fluid layouts, and accessibility guidelines drive product success in 2026."
+  },
+  {
+    "slug": "fast-apps-nextjs-tailwind",
+    "title": "Building Blazing Fast Apps with Next.js & Tailwind",
+    "category": "Development",
+    "date": "Sep 18, 2026",
+    "image": "/images/agency/blog-2.png",
+    "excerpt": "Learn best practices for performance optimization, static site generation, and utility-first styling.",
+    "content": "Deep dive into Static Site Generation (SSG), pre-rendering pathways, and leveraging Tailwind CSS for zero runtime styling overhead."
+  },
+  {
+    "slug": "seo-strategy-growth",
+    "title": "How SEO Strategy Shapes Brand Growth from Scratch",
+    "category": "Marketing",
+    "date": "Sep 12, 2026",
+    "image": "/images/agency/blog-3.png",
+    "excerpt": "Actionable insights for content indexing, technical audit, and organic user acquisition.",
+    "content": "Search engine optimization starts with semantic HTML, lightning performance, and well-structured metadata across dynamic routes."
+  }
+]
